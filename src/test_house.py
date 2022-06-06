@@ -13,4 +13,4 @@ class HouseTestCase(unittest.TestCase):
     def test_house_with_age_10(self):
         home = House("Koen", 10)
 
-        self.assertEqual(home.age, 5)
+        self.assertEqual(home.age, 10)
