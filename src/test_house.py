@@ -1,7 +1,5 @@
-
 import unittest
-from house import House
-
+from .house import House
 
 class HouseTestCase(unittest.TestCase):
 
