@@ -1,21 +1,21 @@
-src package
-===========
+index package
+=============
 
 Submodules
 ----------
 
-src.house module
-----------------
+index.house module
+------------------
 
-.. automodule:: src.house
+.. automodule:: index.house
    :members:
    :undoc-members:
    :show-inheritance:
 
-src.test\_house module
-----------------------
+index.test\_house module
+------------------------
 
-.. automodule:: src.test_house
+.. automodule:: index.test_house
    :members:
    :undoc-members:
    :show-inheritance:
@@ -23,7 +23,7 @@ src.test\_house module
 Module contents
 ---------------
 
-.. automodule:: src
+.. automodule:: index
    :members:
    :undoc-members:
    :show-inheritance:
