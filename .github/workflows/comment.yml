@@ -25,3 +25,4 @@ jobs:
         with:
           message: |
             Hello world ! :wave:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
